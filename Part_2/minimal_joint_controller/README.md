@@ -32,4 +32,4 @@ In another terminal, run the ROS 2 node:
 
 ### Gazebo Simulation and Terminal Output
 
-
+<img src="new-repository/Screenshot from 2025-01-15 15-23-07.png" width=100>
