@@ -33,4 +33,4 @@ In another terminal, run the ROS 2 node:
 ## Gazebo Simulation and Terminal Output
 [![Watch the video](visuals/RectPrismSimThumbnail.jpg)](https://www.youtube.com/watch?v=4sVzLdxut9g)
 
-<img src="visuals/Screenshot from 2025-01-15 15-23-07.png" width=500>
+<img src="visuals/Screenshot from 2025-01-15 15-23-07.png" width=1000>
