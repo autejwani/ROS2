@@ -31,4 +31,7 @@ In another terminal, run the ROS 2 node:
   - **Angular Velocity:** 1 rad/s about the z-axis.
 
 ### Gazebo Simulation and Terminal Output
+<video controls>
+  <source src="visuals/Screencast%20from%2001-15-2025%2003%3A22%3A16%20PM.webm" type="video/webm">
+</video>
 <img src="visuals/Screenshot from 2025-01-15 15-23-07.png" width=500>
